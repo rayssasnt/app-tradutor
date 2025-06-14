@@ -17,8 +17,8 @@ Um tradutor simples feito com Python e Streamlit que utiliza a API MyMemory para
 - API MyMemory (https://mymemory.translated.net)
 
 ## 📸 Demonstração
-### 🌏 Tradução de Inglês para Japonês + Download
-![Tradução en-ja](imagemjap.jpeg)
+### 🌏 Imagem1
+![Tradução en-ja](imagem1.png)
 
 
 
