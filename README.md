@@ -8,6 +8,7 @@ Um tradutor simples feito com Python e Streamlit que utiliza a API MyMemory para
 1. Insira o texto.
 2. Escolha os idiomas de origem e destino.
 3. Clique em "Traduzir".
+4. - Tem a opção de **Download da tradução**
 
 ## Tecnologias
 
@@ -15,8 +16,16 @@ Um tradutor simples feito com Python e Streamlit que utiliza a API MyMemory para
 - Streamlit
 - API MyMemory (https://mymemory.translated.net)
 
+## 📸 Demonstração
+### 🌏 Tradução de Inglês para Japonês + Download
+![Tradução en-ja](imagemjap.jpeg)
+
+
+
 ## Executar localmente
 
 ```bash
 pip install -r requirements.txt
 streamlit run app_tradutor.py
+
+
