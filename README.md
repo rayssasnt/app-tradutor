@@ -16,12 +16,6 @@ Um tradutor simples feito com Python e Streamlit que utiliza a API MyMemory para
 - Streamlit
 - API MyMemory (https://mymemory.translated.net)
 
-## 📸 Demonstração
-### 🌏 Imagem1
-![Tradução en-ja](imagem1.png)
-
-
-
 ## Executar localmente
 
 ```bash
